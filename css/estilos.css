@@ -1,0 +1,24 @@
+/*ESTE ES EL BANNER DEL INICIO*/
+.banner-image{
+    text-align: center;
+    background: url('../img/portada.jpg') no-repeat center;
+    background-size: cover;
+}
+
+.quienessomos{
+    background-color: #af8fbb;
+}
+
+/*AQUÍ PUEDEN CAMBIAR EL COLOR DEL BOTÓN AZÚL*/ /*Sólo debes borrar los   /*   y el   */
+
+/*.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: yellowgreen !important;
+}*/
+
+.fondodelcuadro{
+    background-color: #af8fbb;
+}
+
+.piedepagina{
+    background-color: #f7efbb;
+}
